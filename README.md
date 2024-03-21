@@ -1,2 +1,3 @@
-# Structure-Template
-A template for our repository structure
+# web-scraping-python
+
+A repo to train web scraping 
